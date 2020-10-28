@@ -8,5 +8,5 @@ const sum = (n) => {
 }
 console.log(sum(500))
 
-setTimeout(() => {console.log('hello')},3000)
-setTimeout(() => {console.log('bye')},5000)
+setTimeout(() => {console.log('Hello')},3000)
+setTimeout(() => {console.log('Bye')},5000)
